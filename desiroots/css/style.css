@@ -38,7 +38,7 @@ img {
 
 body {
 	background: #fff;
-	color: #666666;
+	color: #e6e6e6;
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
@@ -62,7 +62,7 @@ h1 {
 	font-weight: 800;
 	line-height: 80px;
 	letter-spacing: -0.08em;
-	color: #161a1b; 
+	color: #ffff; 
 }
 
 h2 {
@@ -71,7 +71,7 @@ h2 {
 	line-height: 1em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: #161a1b;
+	color: #ffff;
 }
 
 #countdown div span {
@@ -223,7 +223,7 @@ h2 {
 
 .contact a.mail {
 	text-decoration: none;
-	color: #161a1b;
+	color: #ffff;
 	padding-bottom: 8px;
 	font-size: 15px;
 }
