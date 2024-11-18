@@ -37,9 +37,10 @@ img {
 }
 
 body {
-	background: #fff;
-	color: #e6e6e6;
+	background: #000000;
+	color: #000000;
 	font-family: 'Roboto', sans-serif;
+	border: 2px;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
 }
@@ -62,7 +63,7 @@ h1 {
 	font-weight: 800;
 	line-height: 80px;
 	letter-spacing: -0.08em;
-	color: #ffff; 
+	color: #000000; 
 }
 
 h2 {
@@ -71,7 +72,7 @@ h2 {
 	line-height: 1em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: #ffff;
+	color: #000000;
 }
 
 #countdown div span {
@@ -223,7 +224,7 @@ h2 {
 
 .contact a.mail {
 	text-decoration: none;
-	color: #ffff;
+	color: #646464;
 	padding-bottom: 8px;
 	font-size: 15px;
 }
@@ -236,7 +237,7 @@ h2 {
 	margin-left: -60px;
 	margin-top: 10px;
 	height: 1px;
-	background: #666666;
+	background: #000000;
 	content: '';
 	opacity: 0;
 	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
@@ -1021,7 +1022,7 @@ h2 {
 
 .button:hover {
 	background: rgb(23,26,28);
-	color: #fff;
+	color: #000000;
 	border: 1px solid rgb(23,26,28);
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -1036,3 +1037,4 @@ h2 {
 		padding: 25px 45px;
 	}
 }
+
